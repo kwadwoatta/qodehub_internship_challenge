@@ -13,7 +13,7 @@ A performant app which fetches data with Chopper (Flutter's equivalent for Kotli
 
 ![](/assets/qodehub_challenge.gif)
 
-# Companies using Flutter: [Showcase](https://flutter.dev/showcase)
+# Companies using Flutter: [Showcase](https://flutter.dev/showcase), [Blog](https://light-it.net/blog/10-noteworthy-apps-built-with-flutter/)
 
 For help getting started with Flutter, view Flutter's
 [online documentation](https://flutter.dev/docs), which offers tutorials,
