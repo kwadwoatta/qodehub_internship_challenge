@@ -1,6 +1,6 @@
 # Qodehub Internship Challenge
 
-A news app built with Flutter.
+A performant app which fetches data with Chopper (Flutter's equivalent for Kotlin's Retrofit) and deserializes the JSON response into a custom model with built_value in a clean code manner.
 
 ## Getting Started
 
