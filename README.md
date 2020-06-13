@@ -4,7 +4,9 @@ A news app built with Flutter.
 
 ## Getting Started
 
-- Run flutter pub get in the root of the project
+- [Install Flutter](https://flutter.dev/docs/get-started/install)
+- Navigate to the root of the project in your terminal
+- Run ```flutter pub get``` in the root of the project
 - Connect device
 - In VS Code, press CTRL + F5 to run app
 - In Android Studio, press profile icon in the Run dropdown to run app
